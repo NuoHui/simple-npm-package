@@ -1,0 +1,20 @@
+{
+  "name": "@nuohui-labs/simple-npm-package",
+  "version": "1.0.0",
+  "description": "simple-npm-package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NuoHui/simple-npm-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NuoHui/simple-npm-package/issues"
+  },
+  "homepage": "https://github.com/NuoHui/simple-npm-package#readme"
+}

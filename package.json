@@ -1,6 +1,6 @@
 {
   "name": "@nuohui/simple-npm-package",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "simple-npm-package",
   "types": "./lib/cjs/types/index.d.ts",
   "main": "./lib/cjs/index.js",
